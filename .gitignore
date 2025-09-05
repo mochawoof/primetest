@@ -1,1 +1,10 @@
-wxWidgets/
+lib/wxWidgets/
+CMakeCache.txt
+CMakeFiles/
+Debug/
+prime.dir/
+x64/
+*.vcxproj
+*.vcxproj.filters
+*.cmake
+*.sln
